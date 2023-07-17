@@ -35,7 +35,7 @@ body {
 
 .bannerBgImage {
     height: 100vh;
-    background: url("./Images/bannerImage.jpg");
+    background: url("../Images/bannerImage.jpg");
     background-size: cover;
     position: relative;
 }
